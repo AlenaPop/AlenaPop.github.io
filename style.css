@@ -1,0 +1,29 @@
+body {
+background-color: wheat;
+}
+#flex {
+    display: flex;
+    flex-direction: row;
+}
+
+nav{
+    background-color: peru;
+}
+main{
+    background-color: #ffffff;
+}
+h1 {
+    color: sienna;
+}
+h2 {
+    color: sienna;
+}
+h3 {
+    color: sienna;
+}   
+h4 {
+    color: sienna;
+}
+h5 {
+    color: sienna;
+}
